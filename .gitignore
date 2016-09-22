@@ -1,0 +1,6 @@
+# ignore image files
+*.[pP][nN][gG]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+# ignore .zip files
+*.[zZ][iI][pP]

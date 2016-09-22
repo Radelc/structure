@@ -1,0 +1,5 @@
+*.CATPart filter=lfs diff=lfs merge=lfs -text
+*.CATProduct filter=lfs diff=lfs merge=lfs -text
+*.stl filter=lfs diff=lfs merge=lfs -text
+*.SLDPRT filter=lfs diff=lfs merge=lfs -text
+*.SLDAMS filter=lfs diff=lfs merge=lfs -text
