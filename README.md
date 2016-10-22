@@ -17,11 +17,14 @@ Versions of the quad are [tagged](https://github.com/elikos/structure/releases) 
 * 2015-2016 <img src="http://i.imgur.com/KmiRHTE.jpg" width="100">
   * [v3.1.0](https://github.com/elikos/structure/archive/v3.1.0.zip) (also contains v3.0.0)
 
-# Prerequisite
+# Instructions and prerequisite
+
+* Use HTTPS (`https://github.com/elikos/structure.git`), not SSH. Git LFS doesn't seem to work well over SSH.
+```
+git clone https://github.com/elikos/structure.git
+```
 
 * Install [Git LFS](https://git-lfs.github.com/):
 ```
 git lfs install
 ```
-
-* Use HTTPS (https://github.com/elikos/structure.git), not SSH. Git LFS doesn't seem to work well over SSH.
